@@ -1,0 +1,6 @@
+{
+  "name": "FraudShield AI - Intelligent Fraud Detection & Investigation Platform",
+  "description": "Real-time financial transaction monitoring, multi-layer rules engine, ML risk scoring, explainable AI investigation summaries, syndicate relationship graph, and analyst case management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
